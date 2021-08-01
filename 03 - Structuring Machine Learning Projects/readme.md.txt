@@ -1,0 +1,1 @@
+This week does not contain any programming assignments.
